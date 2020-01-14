@@ -1,0 +1,28 @@
+{
+  "name": "cosmosex",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "azure-storage": "^2.10.3",
+    "body-parser": "^1.19.0",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaithi24/mongo.git"
+  },
+  "author": "amaithisingamj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaithi24/mongo/issues"
+  },
+  "homepage": "https://github.com/amaithi24/mongo#readme"
+}
